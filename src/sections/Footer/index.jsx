@@ -3,11 +3,11 @@ const Footer = () => (
     <p className="text-center text-base font-medium">
       &copy; Copyright 2022{" "}
       <a
-        href="https://github.com/kochan4php"
+        href="https://github.com/sautmanurung1"
         className="transition-all duration-300 hover:text-sky-500"
         target="_blank"
       >
-        Kochan.php
+        saut kristian wiratama manurung
       </a>
     </p>
   </footer>
