@@ -41,8 +41,8 @@ const Socmed = [
     Icon: BsTelegram,
   },
   {
-    text: "Portfolio",
-    path: "/",
+    text: "My Website",
+    path: "https://sautmanurung.my.id",
     btncolor:
       "hover:brightness-90 bg-gradient-to-r from-[#f77062] to-[#fe5196]",
     Icon: MdWork,
