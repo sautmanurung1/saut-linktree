@@ -21,24 +21,11 @@ const Socmed = [
     Icon: BsInstagram,
   },
   {
-    text: "WhatsApp",
-    path: "https://wa.me/+6281264668115",
-    btncolor: "hover:brightness-90 bg-[#28B13D] hover:bg-[#28B13D]",
-    Icon: BsWhatsapp,
-  },
-  {
     text: "LinkedIn",
     path: "https://www.linkedin.com/in/saut-kristian-wiratama-manurung",
     btncolor:
       "hover:brightness-90 bg-[rgb(0,115,177)] hover:bg-[rgb(0,115,177)]",
     Icon: BsLinkedin,
-  },
-  {
-    text: "Telegram",
-    path: "https://t.me/sautmanurung",
-    btncolor:
-      "hover:brightness-90 bg-[rgb(0,115,177)] hover:bg-[rgb(0,115,177)]",
-    Icon: BsTelegram,
   },
   {
     text: "My Website",
